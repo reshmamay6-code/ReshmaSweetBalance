@@ -1,0 +1,25 @@
+{
+  "name": "playworkspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1",
+    "allure-playwright": "^3.4.2",
+    "playwright-bdd": "^8.4.1"
+  },
+  "dependencies": {
+    "@playwright/mcp": "^0.0.48",
+    "csv": "^6.4.1",
+    "dotenv": "^17.2.3",
+    "exceljs": "^4.4.0",
+    "parse": "^3.5.1"
+  }
+}
